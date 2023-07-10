@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes">
+      <UniqueIdentifier>{882703c5-bd16-431a-89f5-b9329bb10a90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes">
+      <UniqueIdentifier>{bfa10e87-31e3-4eab-943a-07f35eab3861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controll">
+      <UniqueIdentifier>{afb5a67b-ec3e-49f1-8537-d1663ffc086e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Draw">
+      <UniqueIdentifier>{8e2269d1-ef78-4949-b775-9d7d8c8f2558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Controll">
+      <UniqueIdentifier>{7fa58cb8-b764-4d37-8dba-9433d313f806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Draw">
+      <UniqueIdentifier>{14a57ee9-5666-4b32-bcb9-fcc21eb1000d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Draw\Button">
+      <UniqueIdentifier>{9129a698-1694-4114-b780-7f793d3ef34d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Draw\Button">
+      <UniqueIdentifier>{3957897d-9759-4cb8-882e-d231e8413ac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Buttons">
+      <UniqueIdentifier>{c2b7d6e2-693d-405a-a368-c9affb3c7634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Buttons">
+      <UniqueIdentifier>{e7040dbc-67d3-4694-b838-fcb778ef0f08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Draw\SubWindow">
+      <UniqueIdentifier>{d2b0200a-4638-4463-bf15-2848aed55a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Draw\SubWindow">
+      <UniqueIdentifier>{ac867350-0bce-4735-af52-e109b726d478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\File">
+      <UniqueIdentifier>{47e1353f-c77e-452b-9cf6-2b2d75f18c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\File">
+      <UniqueIdentifier>{72e3f51d-2e34-4be8-a8ce-e30e4bf06d3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Data">
+      <UniqueIdentifier>{327e804b-2bc9-4c3b-bb58-cbc16f15f4cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Data">
+      <UniqueIdentifier>{eed28218-3702-4ce8-8ff6-f3bdb439b55b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\SubWindows">
+      <UniqueIdentifier>{aeabd639-aa81-4191-86f1-fc62ea84ebcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\SubWindows">
+      <UniqueIdentifier>{8b8e0a04-dbc0-4517-8cf2-b27655de42e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Draw\Texts">
+      <UniqueIdentifier>{effcc729-bcfa-4382-9816-cd719aa4b124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Draw\CheckBox">
+      <UniqueIdentifier>{cf17f692-155c-4fe6-b961-ef57ed25a529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Draw\CheckBox">
+      <UniqueIdentifier>{e53608fc-8309-4d91-b5fd-c94095c36263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\CheckBoxes">
+      <UniqueIdentifier>{9a508d04-af82-454c-9d28-bb5d69885d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\CheckBoxes">
+      <UniqueIdentifier>{272d5823-c921-4091-acea-ea5d43ecab55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Window">
+      <UniqueIdentifier>{71a14422-7ec5-4ba6-af25-059fde0c2595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Window">
+      <UniqueIdentifier>{69887088-d6f6-4f6f-82c9-9158e035e8bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Window\Notification">
+      <UniqueIdentifier>{57b478c7-b6a1-4ad5-8939-0d319616c9cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Times">
+      <UniqueIdentifier>{68c944cf-acdc-4cd6-ae2d-de7cb648ab85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Times">
+      <UniqueIdentifier>{bef1b9cc-abe5-43f1-a0be-caf1892aaff2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Buttons\Time">
+      <UniqueIdentifier>{ae9e03f7-0a91-478f-95dc-96531a33fa4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Buttons\SetRand">
+      <UniqueIdentifier>{21beace0-3346-4f46-afb1-ff94cc335fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Buttons\Title">
+      <UniqueIdentifier>{89404d1b-4ddd-4dc7-8ca9-d113cb31a75b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Buttons\Title">
+      <UniqueIdentifier>{78cc1a4b-8387-4f3f-957a-f5e1547742b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Buttons\SetRand">
+      <UniqueIdentifier>{fb16af04-f569-4a04-bd93-a6e0f04ebb2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Buttons\Process">
+      <UniqueIdentifier>{c49232b4-1554-461c-9fad-a2f636b26ec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Processes\Buttons\Process">
+      <UniqueIdentifier>{66058afb-bede-4543-9b24-301883a94136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Processes\Buttons\Time">
+      <UniqueIdentifier>{9749aaf8-1532-4963-ac8c-9c5362f731a0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Init.cpp">
+      <Filter>ソース ファイル\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll.cpp">
+      <Filter>ソース ファイル\Controll</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>ソース ファイル\Draw</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>ソース ファイル\Draw\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfButtons.cpp">
+      <Filter>ソース ファイル\Draw\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWindow.cpp">
+      <Filter>ソース ファイル\Draw\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoButton.cpp">
+      <Filter>ソース ファイル\Draw\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile.cpp">
+      <Filter>ソース ファイル\Processes\File</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenFile.cpp">
+      <Filter>ソース ファイル\Processes\File</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfSubWindow.cpp">
+      <Filter>ソース ファイル\Draw\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="UTF-8.cpp">
+      <Filter>リソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="NameData.cpp">
+      <Filter>ソース ファイル\Processes\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>ソース ファイル\Processes\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="NameDataWindow.cpp">
+      <Filter>ソース ファイル\Processes\SubWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="SetRandWindow.cpp">
+      <Filter>ソース ファイル\Processes\SubWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>ソース ファイル\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfTexts.cpp">
+      <Filter>ソース ファイル\Draw\Texts</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBox.cpp">
+      <Filter>ソース ファイル\Draw\CheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfCheckBoxes.cpp">
+      <Filter>ソース ファイル\Draw\CheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="DuplicateCheck.cpp">
+      <Filter>ソース ファイル\Processes\CheckBoxes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowNextCheck.cpp">
+      <Filter>ソース ファイル\Processes\CheckBoxes</Filter>
+    </ClCompile>
+    <ClCompile Include="PinWindow.cpp">
+      <Filter>ソース ファイル\Processes\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Consts.cpp">
+      <Filter>ソース ファイル\Processes\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>ソース ファイル\Processes\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="FPS.cpp">
+      <Filter>ソース ファイル\Processes\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes.cpp">
+      <Filter>ソース ファイル\Processes\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveFile.cpp">
+      <Filter>ソース ファイル\Processes\File</Filter>
+    </ClCompile>
+    <ClCompile Include="Click.cpp">
+      <Filter>ソース ファイル\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>ソース ファイル\Processes\Times</Filter>
+    </ClCompile>
+    <ClCompile Include="Exit.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="EndButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeMaxRandButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\SetRand</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfirmButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\SetRand</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteSansyoButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="InitAppearButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="NextRandButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Process</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Process</Filter>
+    </ClCompile>
+    <ClCompile Include="SansyoButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="StopProcessButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Process</Filter>
+    </ClCompile>
+    <ClCompile Include="SetAlarmDataWindow.cpp">
+      <Filter>ソース ファイル\Processes\SubWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="SetAlarmButton.cpp">
+      <Filter>ソース ファイル\Processes\Buttons\Time</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Singleton.h">
+      <Filter>ヘッダー ファイル\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="Init.h">
+      <Filter>ヘッダー ファイル\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll.h">
+      <Filter>ヘッダー ファイル\Controll</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>ヘッダー ファイル\Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>ヘッダー ファイル\Draw\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfButtons.h">
+      <Filter>ヘッダー ファイル\Draw\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWindow.h">
+      <Filter>ヘッダー ファイル\Draw\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoButton.h">
+      <Filter>ヘッダー ファイル\Draw\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenFile.h">
+      <Filter>ヘッダー ファイル\Processes\File</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadFile.h">
+      <Filter>ヘッダー ファイル\Processes\File</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfSubWindow.h">
+      <Filter>ヘッダー ファイル\Draw\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="NameData.h">
+      <Filter>ヘッダー ファイル\Processes\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>ヘッダー ファイル\Processes\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="NameDataWindow.h">
+      <Filter>ヘッダー ファイル\Processes\SubWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="SetRandWindow.h">
+      <Filter>ヘッダー ファイル\Processes\SubWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>ヘッダー ファイル\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfTexts.h">
+      <Filter>ヘッダー ファイル\Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBox.h">
+      <Filter>ヘッダー ファイル\Draw\CheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="DuplicateCheck.h">
+      <Filter>ヘッダー ファイル\Processes\CheckBoxes</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfCheckBoxes.h">
+      <Filter>ヘッダー ファイル\Draw\CheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowNextCheck.h">
+      <Filter>ヘッダー ファイル\Processes\CheckBoxes</Filter>
+    </ClInclude>
+    <ClInclude Include="PinWindow.h">
+      <Filter>ヘッダー ファイル\Processes\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Consts.h">
+      <Filter>ヘッダー ファイル\Processes\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>ヘッダー ファイル\Processes\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="FPS.h">
+      <Filter>ヘッダー ファイル\Processes\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Scenes.h">
+      <Filter>ヘッダー ファイル\Processes\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveFile.h">
+      <Filter>ヘッダー ファイル\Processes\File</Filter>
+    </ClInclude>
+    <ClInclude Include="Click.h">
+      <Filter>ヘッダー ファイル\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>ヘッダー ファイル\Processes\Times</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeMaxRandButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\SetRand</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfirmButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\SetRand</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteSansyoButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Exit.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="InitAppearButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="SansyoButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="EndButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="NextRandButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="StopProcessButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="SetAlarmDataWindow.h">
+      <Filter>ヘッダー ファイル\Processes\SubWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="SetAlarmButton.h">
+      <Filter>ヘッダー ファイル\Processes\Buttons\Time</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Randomizer_icon.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
